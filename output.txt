@@ -1,0 +1,32 @@
+Breed                       Total  Percent  
+BELGIAN MALINOIS            492    94.1     
+LABRADOR RETRIEVER          872    92.4     
+CANE CORSO                  318    88.7     
+AMERICAN PIT BULL TERRIER   960    87.6     
+POODLE, STANDARD            280    87.1     
+SIBERIAN HUSKY              331    86.7     
+MIXED BREED                 1284   86.6     
+MASTIFF                     272    86.4     
+GOLDEN RETRIEVER            836    85.9     
+AMERICAN STAFFORDSHIRE      770    85.7     
+TERRIER                                     
+GERMAN SHEPHERD DOG         3500   85.7     
+BOUVIER DES FLANDERS        935    85.6     
+ALASKAN MALAMUTE            253    85.4     
+ROTTWEILER                  6216   85       
+BOXER                       489    84.5     
+RHODESIAN RIDGEBACK         612    84.5     
+DALMATIAN                   373    83.6     
+GREATER SWISS MOUNTAIN DOG  286    83.6     
+BORDER COLLIE               326    83.1     
+GREAT DANE                  364    82.7     
+AUSTRALIAN SHEPHERD         718    82.5     
+BELGIAN SHEEPDOG            536    81.7     
+BELGIAN TERVUREN            554    81.6     
+BRIARD                      397    81.4     
+COLLIE                      906    80.9     
+SAMOYED                     303    80.5     
+DOBERMAN PINSCHER           1870   80.1     
+AKITA                       622    78.6     
+GIANT SCHNAUZER             288    78.1     
+SHETLAND SHEEPDOG           523    69.4     
